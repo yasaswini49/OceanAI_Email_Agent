@@ -1,0 +1,152 @@
+[
+  {
+    "id": "email_001",
+    "from": "alice@partnerco.com",
+    "to": "ops@oceanai.com",
+    "subject": "Project Delta — Weekly status update",
+    "receivedDateTime": "2025-11-24T09:12:00Z",
+    "body": "Hello team,\n\nHere is the weekly status update for Project Delta.\n- Design: Completed\n- Procurement: In progress (ETA 2025-12-05)\n- Deployment: On track\n\nPlease confirm if any blockers.\n\nBest,\nAlice",
+    "isRead": false,
+    "importance": "normal"
+  },
+  {
+    "id": "email_002",
+    "from": "calendar@company.com",
+    "to": "you@oceanai.com",
+    "subject": "Meeting Invitation: Q4 Planning - Dec 2",
+    "receivedDateTime": "2025-11-23T14:30:00Z",
+    "body": "You're invited: Q4 Planning on 2025-12-02 10:00 UTC.\nPlease accept or propose a new time.",
+    "isRead": false,
+    "importance": "normal"
+  },
+  {
+    "id": "email_003",
+    "from": "news@maritimetrends.com",
+    "to": "you@oceanai.com",
+    "subject": "Maritime Trends Weekly — Nov 21",
+    "receivedDateTime": "2025-11-21T07:00:00Z",
+    "body": "Top stories: port congestions, fuel price outlook, technology in logistics.",
+    "isRead": true,
+    "importance": "low"
+  },
+  {
+    "id": "email_004",
+    "from": "spam-offer@promo.example",
+    "to": "you@oceanai.com",
+    "subject": "Congratulations! You've won a prize",
+    "receivedDateTime": "2025-11-22T01:15:00Z",
+    "body": "Click here to claim your prize: http://malicious.example/claim",
+    "isRead": true,
+    "importance": "low"
+  },
+  {
+    "id": "email_005",
+    "from": "hr@oceanai.com",
+    "to": "you@oceanai.com",
+    "subject": "Action Required: Update your emergency contact",
+    "receivedDateTime": "2025-11-20T08:00:00Z",
+    "body": "Please update your emergency contact information by 2025-11-30 via the HR portal.",
+    "isRead": false,
+    "importance": "high"
+  },
+  {
+    "id": "email_006",
+    "from": "client-support@freightco.com",
+    "to": "you@oceanai.com",
+    "subject": "Invoice #7890 due notice",
+    "receivedDateTime": "2025-11-19T12:45:00Z",
+    "body": "Dear OceanAI,\nYour invoice #7890 for shipping services is due on 2025-11-30. Please advise if payment is scheduled.",
+    "isRead": false,
+    "importance": "high"
+  },
+  {
+    "id": "email_007",
+    "from": "it-support@oceanai.com",
+    "to": "you@oceanai.com",
+    "subject": "Scheduled maintenance: VPN outage 2025-11-26",
+    "receivedDateTime": "2025-11-18T16:00:00Z",
+    "body": "Heads up: VPN maintenance on 2025-11-26 02:00-04:00 UTC. Expect brief interruptions.",
+    "isRead": true,
+    "importance": "normal"
+  },
+  {
+    "id": "email_008",
+    "from": "project@partnerco.com",
+    "to": "you@oceanai.com",
+    "subject": "Please provide ETA for replacement parts",
+    "receivedDateTime": "2025-11-24T11:20:00Z",
+    "body": "Can you confirm ETA for the replacement pump (part #XJ-12)? We need it for schedule planning.",
+    "isRead": false,
+    "importance": "high"
+  },
+  {
+    "id": "email_009",
+    "from": "alerts@shippingtracker.com",
+    "to": "you@oceanai.com",
+    "subject": "Cargo delay alert: Vessel MV Horizon",
+    "receivedDateTime": "2025-11-25T02:10:00Z",
+    "body": "The MV Horizon is delayed due to weather. Estimated arrival shifted by 18 hours.",
+    "isRead": false,
+    "importance": "high"
+  },
+  {
+    "id": "email_010",
+    "from": "recruiting@anotherco.com",
+    "to": "you@oceanai.com",
+    "subject": "Job Opportunity: Logistics Analyst",
+    "receivedDateTime": "2025-11-17T09:00:00Z",
+    "body": "We have an open role that might interest you. Reply if you'd like to discuss.",
+    "isRead": true,
+    "importance": "low"
+  },
+  {
+    "id": "email_011",
+    "from": "colleague@oceanai.com",
+    "to": "you@oceanai.com",
+    "subject": "Can you review the contract draft?",
+    "receivedDateTime": "2025-11-24T13:45:00Z",
+    "body": "Please review the attached contract and provide comments by 2025-11-29.",
+    "isRead": false,
+    "importance": "normal"
+  },
+  {
+    "id": "email_012",
+    "from": "marketing@vendor.com",
+    "to": "you@oceanai.com",
+    "subject": "Exclusive offer on fuel optimization software",
+    "receivedDateTime": "2025-11-15T06:30:00Z",
+    "body": "Special pricing available for early adopters. Schedule a demo to learn more.",
+    "isRead": true,
+    "importance": "low"
+  },
+  {
+    "id": "email_013",
+    "from": "ops-lead@oceanai.com",
+    "to": "you@oceanai.com",
+    "subject": "Action: Submit weekly voyage schedule",
+    "receivedDateTime": "2025-11-25T07:30:00Z",
+    "body": "Reminder: Please submit your vessel's weekly voyage schedule by 2025-11-26 09:00 UTC.",
+    "isRead": false,
+    "importance": "high"
+  },
+  {
+    "id": "email_014",
+    "from": "survey@industrygroup.org",
+    "to": "you@oceanai.com",
+    "subject": "Share your feedback — industry survey",
+    "receivedDateTime": "2025-11-10T10:00:00Z",
+    "body": "Participate in our annual shipping trends survey.",
+    "isRead": true,
+    "importance": "low"
+  },
+  {
+    "id": "email_015",
+    "from": "unknown@phish.example",
+    "to": "you@oceanai.com",
+    "subject": "Urgent: Account verification required",
+    "receivedDateTime": "2025-11-25T05:05:00Z",
+    "body": "Please verify your account at http://phish.example or access will be suspended.",
+    "isRead": false,
+    "importance": "low"
+  }
+]
