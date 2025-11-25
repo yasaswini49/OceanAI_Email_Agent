@@ -55,7 +55,6 @@ backend/data/ms_token_cache.json
 backend/data/device_flow.json
 backend/data/*.db
 backend/data/*.sqlite
-backend/data/*.json
 
 # IDE / Editor
 .vscode/
